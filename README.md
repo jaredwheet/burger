@@ -10,7 +10,7 @@ The page is styled with google fonts and custom CSS. Handlebars creates the fron
 Who will use this?
 A burger joint may use this app to allow customers to handle completing their burger orders. 
 
-Deployment
+Deployment:
 See the deployed version at https://wheet-burger-app.herokuapp.com/
 
 Credits
