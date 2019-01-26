@@ -1,4 +1,4 @@
-# burger
+#EAT-DA-BURGER
 An Introduction to Eat-Da-Burger!
 ORDER UP! Create a burger, eat it, delete it or prepare another. This app uses node, express, handlebars and mySQL. 
 
