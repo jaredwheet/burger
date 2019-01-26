@@ -11,7 +11,7 @@ Who will use this?
 A burger joint may use this app to allow customers to handle completing their burger orders. 
 
 Deployment
-Deployment on a node server is required. After uploading the files, you will need to create your own MySQL database and updated the config/connection.js file with your database login credentials.
+See the deployed version at https://wheet-burger-app.herokuapp.com/
 
 Credits
 Jared Wheet, sole developer
